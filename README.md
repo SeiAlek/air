@@ -2,7 +2,7 @@
 [LINK](https://SeiAlek.github.io/air)
 
 Technologies:
--HTML,
--SASS,
--Gulp,
--Webpack
+- HTML,
+- SASS,
+- Gulp,
+- Webpack
