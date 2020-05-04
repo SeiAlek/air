@@ -1,4 +1,8 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Strategic Agency landing page
+[LINK](https://SeiAlek.github.io/air)
+
+Technologies:
+-HTML,
+-SASS,
+-Gulp,
+-Webpack
